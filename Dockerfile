@@ -21,7 +21,6 @@ RUN cd /home \
     && cmake -DDLIB_PATH=/home/dlib-19.6 ..
 
 RUN cd /home/bearid \
-    && mkdir build \
     && cd build \
     && cmake -DDLIB_PATH=/home/dlib-19.6 .. \
     && cmake --build . --config Release
