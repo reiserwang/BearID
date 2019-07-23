@@ -1,0 +1,22 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+# vscode
+.vscode/
+
+#lib
+./boost_1_68_0
+./dlib-19.6
+boost_1_68_0.tar.bz2
+dlib-19.6.tar.bz2
