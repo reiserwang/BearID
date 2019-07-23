@@ -1,5 +1,4 @@
 FROM spmallick/opencv-docker:opencv
-MAINTAINER ReiserW reiser@live.com
 
 RUN apt-get -y install libboost-all-dev \
     && cd /home 
