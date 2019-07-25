@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<dataset>
-    <name>bearid dataset</name>
-    <comment>Created by bearchip</comment>
-    <info>Created on: 201907221924</info>
-    <command> ./bearchip ./images</command>
-    <chips/>
-</dataset>
