@@ -9,6 +9,11 @@ To build the UWP BearID App, copy the [ArcFace model](https://s3.amazonaws.com/o
 - Get bear embedding vector using ArcFace ONNX model (ArcFace.onnx)
 - Identify bear using cosine similarity
 
+## Code Structure
+- UWP/          Implementations based on aboce architecture, contributed by Tony.
+- bearid_dlib/  *Deprecated codes based on https://github.com/hypraptive/bearid*
+- Dockerfile    *Deprecated.* Dockerfile for bearid_dlib.
+
 ## Reference
 - [ArcFace model](https://github.com/onnx/models/tree/master/vision/body_analysis/arcface)
 - [台灣黑熊保育協會｜Taiwan Black Bear Conservation Association (TBBCA)](http://www.taiwanbear.org.tw)
