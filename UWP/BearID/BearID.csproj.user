@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</Source>
+    <SmallTileSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\tolin\Desktop\f5cecf47c791ee.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>
