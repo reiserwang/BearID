@@ -5,8 +5,8 @@ To build the UWP BearID App, copy the [ArcFace model](https://s3.amazonaws.com/o
 ## Architecture
 
 - Capture video / picture from camera
-- Get bear face using custom YOLO ONNX model (BearFace.onnx)
-- Get bear embedding vector using ArcFace ONNX model (ArcFace.onnx)
+- Get bear face using custom YOLO ONNX model ([BearFace.onnx](https://github.com/reiserwang/BearID/blob/master/UWP/BearID/BearFace.onnx))
+- Get bear embedding vector using [ArcFace](https://arxiv.org/abs/1801.07698) ONNX model (ArcFace.onnx)
 - Identify bear using cosine similarity
 
 ## Code Structure
